@@ -2,4 +2,4 @@
 
 3rd year subject at NTNU. 
 
-All tasks were completed individually and contributed 30% to final grade
+All tasks were completed individually and contributed 30% to the final grade. 
